@@ -7,3 +7,4 @@ multiplicacion=no1*no2
 division=no1/no2
 
 print (f"la suma de los dos digitos es {suma1}")
+print (f"la resta  de los dos digitos es {restar1}")
