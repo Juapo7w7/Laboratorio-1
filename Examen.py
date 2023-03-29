@@ -8,3 +8,5 @@ division=no1/no2
 
 print (f"la suma de los dos digitos es {suma1}")
 print (f"la resta  de los dos digitos es {restar1}")
+print (f"la multiplacion de los dos digitos es {multiplicacion}")
+
