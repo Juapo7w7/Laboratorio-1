@@ -2,3 +2,5 @@
 no1=int(input ("Ingrese un numero ")) 
 no2=int(input ("Ingrese otro numero "))
 suma1=no2+no1
+restar1=no1-no2
+multiplicacion=no1*no2
